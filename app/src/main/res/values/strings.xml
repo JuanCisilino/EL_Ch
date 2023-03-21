@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EL_Ch</string>
+
+    <string name="login">Login</string>
+    <string name="username">Ingrese su email</string>
+    <string name="password">Ingrese su password</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarse</string>
+    <string name="qr_button">Generar QR</string>
+
+    <string name="cargando">Cargando..</string>
+
+    <string name="error_message">Verifique los datos y vuelva a intentar.</string>
+    <string name="ok">Aceptar</string>
+    <string name="error">Error</string>
+    <string name="empty">Debe llenar este campo</string>
+
+    <string name="register">Para ingresar debe estar registrado</string>
+
+    <string name="title_home">Bienvenido</string>
+    <string name="title_dashboard">Agregar Tarjeta</string>
+    <string name="title_notifications">QR</string>
+
+    <string name="prefs_file">com.frost.el_ch.PREFERENCE_FILE_KEY</string>
+
+    <string name="email">Email</string>
+    <string name="saldo">Saldo</string>
+    <string name="number">$$$</string>
+    <string name="cards">Tarjetas Asociadas</string>
+    <string name="nombre">Nombre y Apellido</string>
+
+    <string name="tarjeta">Nombre y numero de tarjeta</string>
+    <string name="expiration">Hasta...</string>
+</resources>
